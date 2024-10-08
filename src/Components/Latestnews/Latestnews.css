@@ -1,0 +1,94 @@
+
+.latestnews{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.news-topics ul{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+    width: 1120px;
+    height: 24px;    
+    gap: 30px;   
+
+
+}
+
+
+.news-topics ul li{
+    list-style:none;
+    gap:10px;
+    font-family:poppins ;
+    font-size:13px ;
+    font-weight:400 ;
+}
+
+.latestnews-box{
+    display: flex;
+    justify-content: center;
+}
+
+.single-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 363px;
+    height: 409.61px;
+
+}
+
+.latestnews-heading h4{
+    font-family:  Poppins;
+    font-size: 18px;
+    color: #015AF2;
+    margin: 0px;
+
+}
+
+.read-heading h3{
+    font-family: Kanit;
+    font-weight: 600;
+    font-size: 52px;
+    margin: 0px;
+
+}
+
+.latestnews-para{
+    text-align: center;
+    font-family:poppins ;
+    font-size:14px ;
+    font-weight:400 ;
+    width: 664px;
+    height: 42px;
+}
+
+.latestnews-readmore{
+    width: 175px;
+height: 40.5px;
+border-radius: 2px ;
+background: #015AF2;
+font-family: Kanit;
+font-size: 15px;
+font-weight: 300;
+line-height: 22.5px;
+text-align: center;
+padding: 0px;
+margin: 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #FFFFFF;
+}
+.title p{
+    margin: 0px;
+}
+.news-date p{
+   margin-top: 8px;
+   margin-bottom: 0px;
+}
+
+.news-para p{
+    margin-top: 8px;
+}

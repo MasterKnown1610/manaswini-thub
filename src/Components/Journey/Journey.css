@@ -1,0 +1,30 @@
+.journey-container{
+    text-align: center;
+    padding-top: 0px;
+}
+
+
+.journey-heading h3{
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 600;
+    font-size: 52px;
+    margin: 0px;
+}
+
+.journey-para{
+    display: flex;
+    justify-content: center;
+    font-family:poppins ;
+    font-size:14px ;
+    font-weight:400 ;
+    width: 472.28px;
+    height: 42px;
+
+}
+
+.journey-box{
+    display: flex;
+    justify-content: center;
+  
+}

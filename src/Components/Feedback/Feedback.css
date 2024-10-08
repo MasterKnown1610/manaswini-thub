@@ -1,0 +1,66 @@
+.feedback-container{
+    margin: 100px 0px;
+}
+
+
+.rating{
+    display: flex;
+}
+
+.feedback{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.feedback-heading h4{
+    font-family:  Poppins;
+    font-size: 18px;
+    color: #015AF2;
+    margin: 0px;
+}
+
+
+.feedback-subheading h3{
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 600;
+    font-size: 52px;
+    margin: 0px;
+
+}
+
+.feedback-para{
+    font-family:poppins ;
+    font-size:14px ;
+    font-weight:400 ;
+
+}
+.img-text{
+    display: flex;
+    justify-content: center;
+    width: 777px;
+    height: 383px;
+
+border-radius: 20px;
+
+background: #F9F9F9;
+
+
+}
+
+.rating-image{
+    text-align: center;
+}
+
+.rating-text{
+    width: 456.53px;
+    height: 105px;
+
+
+}
+
+
+

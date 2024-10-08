@@ -1,0 +1,57 @@
+.features-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.features{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+
+.points ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 14px;
+}
+
+.points ul li{
+    font-family:poppins ;
+font-size:14px ;
+font-weight:400 ;
+}
+
+.features-title h4{
+    font-family:  Poppins;
+    font-size: 18px;
+    color: #015AF2;
+    margin-bottom: 0px;
+
+}
+
+.features-heading h3{
+    font-family: Kanit;
+    font-weight: 600;
+    font-size: 52px;
+    margin: 0px;
+    line-height: 50px;
+
+
+}
+.features-para p{
+font-family:poppins ;
+font-size:14px ;
+font-weight:400 ;
+margin-top:  20px;
+
+}
+.image img{
+    width: 488px;
+height: 526.89px;
+margin-top: 10px;
+
+
+}
